@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+- 🌱 I'm currently toying with digital simulators and pcb design.
+- 🔭 I'm currently working on image reconstruction with machine learning.
+- 📫 rachael.judy@icloud.com
 
 <!--
 **rjudy1/rjudy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+We'll use this to keep our git board looking nice.
 -->
