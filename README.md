@@ -1,5 +1,5 @@
 ### Hello there 🚀
-- 🌱 I'm currently toying with digital simulators and pcb design.
+- 🌱 I'm currently toying with embedded system design and learning GoLang.
 - 🔭 I'm currently working on image reconstruction with machine learning.
 - 📫 rachael.judy@icloud.com
 
