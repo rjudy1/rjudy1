@@ -1,6 +1,6 @@
 ### Hello there 🚀
-- 🌱 I'm currently toying with embedded system design and learning GoLang.
-- 🔭 I'm currently working on image reconstruction with machine learning.
+- 🌱 I'm currently toying with hardware and embedded system design and learning GoLang.
+- 🔭 I'm currently working on digital signal processing and transfers on FPGAs.
 - 📫 rachael.judy@icloud.com
 
 <!--
