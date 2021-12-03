@@ -1,6 +1,6 @@
 ### Hello there 🚀
-- 🌱 I'm currently toying with hardware and embedded system design and learning GoLang.
-- 🔭 I'm currently working on digital signal processing and transfers on FPGAs.
+- 🌱 I'm currently toying with hardware and embedded system design and learning Rust.
+- 🔭 I'm currently working on digital signal processing, hardware security, and transfers on FPGAs.
 - 📫 rachael.judy@icloud.com
 
 <!--
