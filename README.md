@@ -1,6 +1,6 @@
 ### Hello there 🚀
-- 🌱 I'm currently toying with hardware and embedded system design, 3D printing, and learning Rust.
-- 🔭 I'm currently working on digital signal processing, hardware security and AES encryption, and SoC CPU design.
+- 🌱 I'm currently experimenting with hardware and embedded system design, 3D printing, and reinforcement learning.
+- 🔭 I'm currently working with dev-ops, code generation, transports, and controls.
 - 📫 rachael.judy@icloud.com
 
 <!--
