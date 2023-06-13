@@ -1,5 +1,5 @@
 ### Hello there 🚀
-- 🌱 I'm currently experimenting with hardware and embedded system design, 3D printing, and reinforcement learning.
+- 🌱 I'm currently experimenting with hardware and embedded system design, additive manufacturing, and reinforcement learning.
 - 🔭 I'm currently working with dev-ops, code generation, transports, and controls.
 - 📫 rachael.judy@icloud.com
 
