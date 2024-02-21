@@ -1,7 +1,7 @@
-### Hello there 🚀
-- 🌱 I'm currently experimenting with hardware and embedded system design, additive manufacturing, and reinforcement learning.
-- 🔭 I'm currently working with dev-ops, code generation, transports, and controls.
-- 📫 rachael.judy@icloud.com
+### Hello there 
+- 🌱 I'm currently experimenting with hardware and embedded system design, gesture recognition, additive manufacturing, and reinforcement learning.
+- 🔭 I'm currently working with controls optimization and machine learning.
+- 📫 rachael.judy1@gmail.com
 
 <!--
 **rjudy1/rjudy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
